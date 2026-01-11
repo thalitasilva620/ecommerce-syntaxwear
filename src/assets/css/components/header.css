@@ -2,8 +2,8 @@
     position: fixed;
     top: 60px;
     left: 50%;
-    transform: translate(-50%);
-    width: calc(100% - 210px);
+    transform: translate(-50%); 
+    width: calc(57% - 210px);
     border-radius: 15px;
     z-index: 999;
     display: flex;
