@@ -87,7 +87,7 @@ Para mais informações sobre o projeto ou para entrar em contato, sinta-se à v
 
 - **LinkedIn**: [Thalita Silva](https.linkedin.com/in/thalita-silva687)
 - **GitHub**: [Thalita-Silva](https://github.com/thalitasilva620)
-- **Email**: `seu-email@example.com`
+- **Email**: `thalitasilva687@gmail.com`
 
 ---
 
